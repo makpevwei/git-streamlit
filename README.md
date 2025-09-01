@@ -1,1 +1,1 @@
-# This repository contains training about git and streamlit
+### This repository contains training about git and streamlit
